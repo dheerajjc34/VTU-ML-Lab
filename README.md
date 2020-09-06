@@ -1,4 +1,4 @@
-# Machine Learning Lab (17CSL76)
+# VTU Machine Learning Lab (17CSL76)
 
 1. [Find-S algorithm](https://github.com/dheerajjc34/VTU-ML-Lab/tree/master/1) <br>
    Implement and demonstratethe FIND-Salgorithm for finding the most specific hypothesis based on a given set of training data samples. Read the training data from a .CSV file.
@@ -29,3 +29,6 @@ Write a program to implement k-Nearest Neighbour algorithm to classify the iris 
 
 10. Locally Weighted Regression algorithm
 Implement the non-parametric Locally Weighted Regression algorithm in order to fit data points. Select appropriate data set for your experiment and draw graphs.
+
+## Note:
+Programs 1-5 and 10 are implemented without using built-in classes for the algorithms.
